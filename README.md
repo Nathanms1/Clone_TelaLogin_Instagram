@@ -1,6 +1,6 @@
 # Olá, tudo bem? Bem-vindo ao meu primeiro projeto no bootcamp da DIO! :smiley: 
 
-Esse é o repositório da aula de Flexbox, na qual vou recriar a interface do Instagram. Estou participando do bootcamp para Web Developer e este é meu primeiro projeto.  
+Esse é o repositório da aula de Flexbox, na qual vou recriar a interface de login do Instagram. Estou participando do bootcamp para Web Developer e este é meu primeiro projeto.  
 
 ### O que utilizei para recriar:
 
