@@ -1,4 +1,4 @@
-# Olá, tudo bem? Bem-vindo ao meu novo projeto do bootcamp da DIO! :smiley: 
+# Olá, tudo bem? Bem-vindo ao meu primeiro projeto no bootcamp da DIO! :smiley: 
 
 Esse é o repositório da aula de Flexbox, na qual vou recriar a interface do Instagram. Estou participando do bootcamp para Web Developer e este é meu primeiro projeto.  
 
