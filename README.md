@@ -8,3 +8,5 @@ Esse é o repositório da aula de Flexbox, na qual vou recriar a interface do In
 * CSS3
 
 ## 🚀 Let's code! 🚀
+
+![Screenshot_1](https://user-images.githubusercontent.com/36935876/121129997-24ef0280-c804-11eb-9dc7-387dc1dbabdd.jpg)
